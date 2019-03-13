@@ -144,7 +144,7 @@ endmodule
 
 ---zad2.4---
 
-module p2 (SW,KEY,LEDR,HEX0,HEX1,HEX2,HEX3,dec,hex,hex1,hex2);
+module zad1 (SW,KEY,LEDR,HEX0,HEX1,HEX2,HEX3,dec,hex,hex1,hex2);
 
 	input[9:0] SW;
 	input[2:0] KEY;
